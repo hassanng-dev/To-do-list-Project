@@ -13,4 +13,4 @@ In this project ive created a to-do list that you can keep that of chores, goals
 
 
 LESSON LEARNED:
-In this project I learned how to use CSS more in depth. Such as moving elements specifically where i want them. I learned how Javascript can be used in various ways and how it can be made to make style changes on a website. For example when I click on one of my tasks on the list once it is completed, if i click on it then a line-through will occur. Learning how to execute these style changes with Javascript makes me excited to learn other ways JavaScript can be used.
+In this project I learned how to use CSS more in depth. Such as moving elements specifically where i want them. I learned how Javascript can be used in various ways and how it can be made to make style changes on a website. For example when I click on one of my tasks on the list once it is completed, then a line-through will occur. Learning how to execute these style changes with Javascript makes me excited to learn other ways JavaScript can be used.
